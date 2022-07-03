@@ -1,0 +1,51 @@
+nav a{
+background-color: rgb(99, 147, 168);
+padding: 10px;
+margin-right: auto;
+width: 10%;
+display: block;
+}
+a {
+text-align: center;
+display: list-item;
+}
+
+header nav img {
+    position:absolute;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+button {
+    text-align: center;
+    width: 50%;
+    padding: 5px;
+    position:absolute;
+    left: 200px;
+    top: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+nav h3 {
+    text-align: left;
+}
+
+h4, p{
+    position: relative;
+    text-align: right;
+    display: block;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    left: 500px;
+}
+
+footer h3 {
+    display: inline-block;
+    margin-right: auto;
+    
+}
