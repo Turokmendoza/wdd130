@@ -71,3 +71,62 @@ body {font-family: Verdana, sans-serif;}
   background: #1abc9c;
   color: white !important
 }
+
+img {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
+nav a{
+  padding: 10px;
+  display: inline-block;
+  position: relative;
+  right: relative;
+  top: 20px;
+  left: 200px;
+  width: 10%;
+  align-items:center ;
+}
+
+button {
+  text-align: center;
+  width: 50%;
+  padding: 1px;
+  position:absolute;
+  left: 500px;
+  top: 300px;
+}
+
+h1 {
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+div .month {
+  width: 200px;
+  height: 200px;
+  right: 20px;
+
+}
+div .weekdays {
+  width: 200px;
+  height: 200px;
+}
+div .days {
+  width: 200px;
+  height: 200px;
+}
+footer h3 {
+    display: inline-block;
+    margin-right: auto;
+    padding: 2px;   
+}
+footer div a {
+  display: inline-block;
+  padding: 40px;
+  text-align: center;
+  position: relative;
+  left: 500px;
+}
