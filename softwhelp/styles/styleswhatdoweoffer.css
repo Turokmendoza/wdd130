@@ -53,6 +53,7 @@ body {font-family: Verdana, sans-serif;}
   padding: 10px 0;
   background: #eee;
   margin: 0;
+  
 }
 
 .days li {
@@ -70,6 +71,7 @@ body {font-family: Verdana, sans-serif;}
   padding: 5px;
   background: #1abc9c;
   color: white !important
+  
 }
 
 img {
@@ -108,15 +110,18 @@ div .month {
   width: 200px;
   height: 200px;
   right: 20px;
-
+  float: right;
+  
 }
 div .weekdays {
   width: 200px;
   height: 200px;
+  float: right;
 }
 div .days {
   width: 200px;
   height: 200px;
+  float: right;
 }
 footer h3 {
     display: inline-block;
@@ -129,4 +134,8 @@ footer div a {
   text-align: center;
   position: relative;
   left: 500px;
+}
+nav img {
+  height: 220px;
+  width: 220px;
 }

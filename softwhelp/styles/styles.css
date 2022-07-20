@@ -13,8 +13,8 @@ display: list-item;
 header nav img {
     position:absolute;
     right: 10px;
-    width: 30px;
-    height: 30px;
+    width: 200px;
+    height: 200h1px;
 }
 
 button {
@@ -48,4 +48,8 @@ footer h3 {
     display: inline-block;
     margin-right: auto;
     
+}
+nav image {
+    height: 3px;
+    width: 3px;
 }

@@ -1,0 +1,12 @@
+footer h3 {
+    display: inline-block;
+    margin-right: auto;
+    
+}
+h1, h2 {
+    text-align: center;
+}
+
+nav h3 {
+    text-align: left;
+}
