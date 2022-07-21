@@ -20,9 +20,7 @@ a {
 text-align: center;
 display: list-item;
 }
-body img {
-    size-adjust: center;
-}
+
 
 header nav img {
     position:absolute;

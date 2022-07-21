@@ -86,7 +86,7 @@ nav a{
   padding: 10px;
   display: inline-block;
   position: relative;
-  right: relative;
+  right: 2px;
   top: 10px;
   left: 200px;
   width: 10%;
