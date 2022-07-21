@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma&family=Lato:ital,wght@1,100&family=Ultra&display=swap');
+
+header {
+    background-color: #77BBAC;
+    font-family: lato;
+}
+body {
+    background-color:#6C8689 ;
+    font-family: atma;
+}
+
 nav a{
 background-color: rgb(99, 147, 168);
 padding: 10px;
@@ -9,12 +20,15 @@ a {
 text-align: center;
 display: list-item;
 }
+body img {
+    size-adjust: center;
+}
 
 header nav img {
     position:absolute;
     right: 10px;
     width: 200px;
-    height: 200h1px;
+    height: 200px;
 }
 
 button {
@@ -47,9 +61,16 @@ h4, p{
 footer h3 {
     display: inline-block;
     margin-right: auto;
+    font-family: lato;
     
 }
 nav image {
     height: 3px;
     width: 3px;
+}
+footer img {
+    height: 30px;
+    width: 30px;
+    padding-bottom: 20px;
+    display: inline-block;
 }
